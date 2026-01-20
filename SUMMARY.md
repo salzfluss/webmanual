@@ -1,6 +1,6 @@
 # Table of contents
 
-* [ユーザーマニュアル](usermanual.md)
+* [ユーザーマニュアル](user/usermanual.md)
   * [アプリケーションのインストール方法](usermanual/appinstal/title.md)
     * [DirectCloud ドライブをインストールする方法［手順］](usermanual/appinstal/u_1.1.103_step.md)
     * [DirectCloud ドライブをインストールする方法［仕様］](usermanual/appinstal/u_1.1.103_spec.md)
