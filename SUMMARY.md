@@ -1,5 +1,6 @@
 # Table of contents
 
-* [ユーザーマニュアル](usermanual.md)
-  * [アプリケーションのインストール方法](yzmanyuaru/appinstal.md)
+* [ユーザーマニュアル](README.md)
+  * [アプリケーションのインストール方法](usermanual/appinstal/README.md)
+    * [Page 1](usermanual/appinstal/page-1.md)
   * [ファイルの共有](readme/fairuno.md)
