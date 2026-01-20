@@ -5,7 +5,7 @@
     * [DirectCloud ドライブをインストールする方法［手順］](user/appinstal/u_1.1.103_step.md)
     * [DirectCloud ドライブをインストールする方法［仕様］](user/appinstal/u_1.1.103_spec.md)
   * [ファイルの共有](user/fileshare/title.md)
-    * [u\_1.1.001\_step](user/fileshare/u_1.1.001_step.md)
+    * [【Webアプリ】リンクの作成画面を表示して基本的な機能を確認する方法［手順］](user/fileshare/u_1.1.001_step.md)
   * [파일 조작](readme/undefined.md)
 * [관리자 매뉴얼](undefined/README.md)
   * [사용자](undefined/undefined.md)
