@@ -1,9 +1,9 @@
 # Table of contents
 
 * [ユーザーマニュアル](user/usermanual.md)
-  * [アプリケーションのインストール方法](usermanual/appinstal/title.md)
-    * [DirectCloud ドライブをインストールする方法［手順］](usermanual/appinstal/u_1.1.103_step.md)
-    * [DirectCloud ドライブをインストールする方法［仕様］](usermanual/appinstal/u_1.1.103_spec.md)
+  * [アプリケーションのインストール方法](user/appinstal/title.md)
+    * [DirectCloud ドライブをインストールする方法［手順］](user/appinstal/u_1.1.103_step.md)
+    * [DirectCloud ドライブをインストールする方法［仕様］](user/appinstal/u_1.1.103_spec.md)
   * [ファイルの共有](readme/fairuno/README.md)
     * [u\_1.1.001\_step](readme/fairuno/u_1.1.001_step.md)
   * [파일 조작](readme/undefined.md)
