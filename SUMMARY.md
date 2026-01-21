@@ -1,7 +1,7 @@
 # Table of contents
 
-* [ユーザーマニュアル](README.md)
-  * [アプリケーションのインストール方法](yzmanyuaru/apurikshonnoinsutru/README.md)
+* [ユーザーマニュアル](user/usermanaul.md)
+  * [アプリケーションのインストール方法](user/appinstal/title.md)
     * [DirectCloud ドライブをインストールする方法［手順］](user/appinstal/u_1.1.103_step.md)
     * [DirectCloud ドライブをインストールする方法［仕様］](user/appinstal/u_1.1.103_spec.md)
   * [ファイルの共有](user/fileshare/title.md)
@@ -9,7 +9,7 @@
   * [ファイルの操作](user/fileedit/title.md)
     * [ファイルのバージョンを戻す方法](user/fileedit/u_1.1.040.md)
     * [ユーザーページでファイルのアクセス履歴を確認する方法](user/fileedit/u_1.1.222.md)
-* [管理者マニュアル](manyuaru/README.md)
+* [管理者マニュアル](manager/managermanual.md)
   * [ユーザー](manager/usermanagement/title.md)
     * [ユーザーを追加する方法](manager/usermanagement/a_1.1.079.md)
     * [ユーザーを一括で追加する方法](manager/usermanagement/a_1.1.088.md)
