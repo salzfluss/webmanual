@@ -1,6 +1,0 @@
----
-icon: face-confounded
----
-
-# ユーザーマニュアル
-
