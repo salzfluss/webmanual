@@ -13,4 +13,5 @@
   * [ユーザー](manager/usermanagement/title.md)
     * [ユーザーを追加する方法](manager/usermanagement/a_1.1.079.md)
     * [ユーザーを一括で追加する方法](manager/usermanagement/a_1.1.088.md)
-  * [스토리지](undefined/undefined-1.md)
+  * [ストレージ](manager/storage/title.md)
+    * [ストレージの契約容量と使用容量を確認する方法](manager/storage/a_1.1.177.md)
